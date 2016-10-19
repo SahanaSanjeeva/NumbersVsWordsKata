@@ -1,4 +1,4 @@
-package com.main.java;
+package main.java.numkat;
 
 import java.util.*;
 

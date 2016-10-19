@@ -1,12 +1,9 @@
-package com.main.test;
+package test.java.numkat;
 
 import static org.junit.Assert.*;
-
-import java.util.Comparator;
-
 import org.junit.Test;
 
-import com.main.java.NumberInWords;
+import main.java.numkat.NumberInWords;
 
 public class NumberInWordsTest {
 
